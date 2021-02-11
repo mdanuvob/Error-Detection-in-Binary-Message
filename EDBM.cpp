@@ -1,3 +1,6 @@
+/*Author: Md. Anuvob Pradan
+Date: 15-09-2019
+*/
 #include<iostream>
 #include<string.h>
 #include <cstdlib>
